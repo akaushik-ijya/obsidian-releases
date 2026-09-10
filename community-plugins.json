@@ -52456,5 +52456,12 @@
     "author": "Zackary Burns",
     "description": "Excalidraw Mirror and Guidlines addition for easy mirrored drawing - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoroaster1x/Excalidraw-Mirror-Guidelines-Obsidian-Plugin"
+  },
+  {
+    "id": "daacini",
+    "name": "IjyaLabs DaaCini — Diagram-as-Code",
+    "author": "Arun R Kaushik",
+    "description": "Render diagrams from text in fenced code blocks — network, cloud, security, architecture, sequence, flowchart, ER and Gantt among them — via the DaaCini service, hosted or self-hosted.",
+    "repo": "akaushik-ijya/obsidian-daacini"
   }
 ]
